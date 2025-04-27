@@ -2,7 +2,7 @@
 
 ### Featured Projects
 
-- Kitten Counter (TM)
+- **[Neural Network Study](https://github.com/brend/neural-network-study)**: I made this to learn about how neural networks work, and it turns out that even a simple one can do many amazing things.
 - Doomsday device
 
 ### Skills
