@@ -8,6 +8,7 @@
 - **[Diffusor](https://github.com/brend/diffusor25)**: A macOS application for exploring various image processing algorithms, e.g. smoothing, edge enhancement or coherence enhancement.
 - **[Nonograms](https://github.com/brend/Nonograms)**: An editor and solver for [nonogram](https://en.wikipedia.org/wiki/Nonogram) puzzles (think Nintendo's Picross). Related: [SudokuBrute](https://github.com/brend/SudokuBrute), a program that solves Sudoku puzzles.
 - **[Lissajous Curve Table](https://github.com/brend/lissajous)**: A program that renders a Lissajous curve table. Teaches trigonometry and is aesthetically pleasing!
+  <img src="https://github.com/brend/lissajous/lissajous.gif">
 
 ### Skills
 
