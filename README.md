@@ -7,6 +7,16 @@ I love to work with
 ![Language](https://img.shields.io/badge/Swift-orange)
 
 ### Featured Projects
+<!--
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td colspan="2"><a href="https://github.com/brend/neural-network-study">Neural Network Study</td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">I made this to learn about how neural networks work, and it turns out that even a simple one can do many amazing things.</td>
+    <td><img src="https://raw.githubusercontent.com/brend/flappy-fellers/main/assets/flappy-fellers.gif"></td>
+  </tr>
+</table>-->
 
 - **[Neural Network Study](https://github.com/brend/neural-network-study)**: I made this to learn about how neural networks work, and it turns out that even a simple one can do many amazing things.
 - **[FrameByFrame](https://github.com/brend/FrameByFrame)**: A stop-motion video creation studio for hobby use that met with some success back when it came out for OSX.
