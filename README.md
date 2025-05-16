@@ -1,5 +1,11 @@
 ## Hi, I'm Philipp
 
+I love to work with
+
+![Language](https://img.shields.io/badge/Rust-brown)
+![Language](https://img.shields.io/badge/C%23-239120)
+![Language](https://img.shields.io/badge/Swift-orange)
+
 ### Featured Projects
 
 - **[Neural Network Study](https://github.com/brend/neural-network-study)**: I made this to learn about how neural networks work, and it turns out that even a simple one can do many amazing things.
